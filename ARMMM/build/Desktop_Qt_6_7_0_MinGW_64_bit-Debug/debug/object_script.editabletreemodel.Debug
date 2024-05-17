@@ -1,0 +1,11 @@
+debug/mainwindow.o
+debug/autorisation.o
+debug/sicret.o
+debug/treeitem.o
+debug/treemodel.o
+debug/main.o
+debug/qrc_editabletreemodel.o
+debug/moc_mainwindow.o
+debug/moc_autorisation.o
+debug/moc_sicret.o
+debug/moc_treemodel.o
